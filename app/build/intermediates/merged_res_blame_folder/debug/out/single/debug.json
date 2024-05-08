@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_white_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_privacy.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_privacy.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment__language.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment__language.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex145.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex145.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\anim_enter_from_left.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex100.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex100.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex90.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex90.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex9.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex9.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex129.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex129.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex15.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex15.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex82.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex82.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex137.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex137.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment__setting.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment__setting.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex74.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex74.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex136.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex136.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex76.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex76.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_up.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_radius_5_trans.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\border_radius_5_trans.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_detail2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment_detail2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex146.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex146.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_editplan.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\menu\\menu_editplan.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex83.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex83.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create_your_plan.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_create_your_plan.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex16.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex16.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_delete.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\btn_delete.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex67.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex67.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex22.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex22.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex69.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex69.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_blue.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\border_blue.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_your_plan_card.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\your_plan_card.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex135.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex135.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_show_your_create.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag_show_your_create.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex73.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex73.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag__show.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag__show.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_newnamedialog.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\newnamedialog.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diet_tips.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_diet_tips.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex20.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex20.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex77.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex77.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex84.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex84.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_recent_actors_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_recent_actors_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main2_drawer.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex13.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex13.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex66.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex66.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_abc_action_usages.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\abc_action_usages.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex143.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex143.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_plan_card.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\plan_card.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_add.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\btn_add.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex23.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex23.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex49.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex49.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex102.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex102.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex40.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex40.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_selecteditem_dot.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\selecteditem_dot.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex91.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex91.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex33.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex33.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_menu_share.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex128.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex128.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex59.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex59.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex138.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex138.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex81.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex81.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag__workouts__dashboard.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag__workouts__dashboard.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex30.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex30.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_purpose.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\border_purpose.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex41.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex41.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex118.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex118.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex148.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex148.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex56.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex56.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_up.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex133.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex133.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_language_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_language_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex141.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex141.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex126.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex126.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex26.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex26.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex63.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex63.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex6.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex6.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\nav_header_main2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex34.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex34.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex87.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex87.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_show_your_plan_item.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\show_your_plan_item.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex142.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex142.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex19.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex19.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dots.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_dots.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_main.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag_main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex70.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex70.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex48.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex48.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex35.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex35.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex88.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex88.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_your_plan.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_your_plan.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex101.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex101.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex139.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex139.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\anim_enter_from_right.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\anim\\enter_from_right.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex127.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex127.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_createplandialog.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\createplandialog.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex113.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex113.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag_2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\menu_main_activity2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\menu\\main_activity2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex21.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex21.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex95.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex95.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex47.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex47.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex42.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex42.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex55.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex55.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex68.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex68.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex147.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex147.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex106.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex106.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex119.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex119.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_step_cout.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\step_cout.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex121.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex121.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_td_ic_action_discard.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\td_ic_action_discard.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex134.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex134.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex14.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex14.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex27.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex27.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_reply_all_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_reply_all_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex5.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex5.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex75.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex75.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex62.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex62.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex60.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex60.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex122.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex122.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex37.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex37.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_show_list_exercise1.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment_show_list_exercise1.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex114.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex114.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex45.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex45.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex52.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex52.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex2.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex2.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle70.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\circle70.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex107.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex107.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex97.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex97.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex130.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex130.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex98.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex98.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_step_count.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_step_count.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag__reminder.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag__reminder.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_mail_outline_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_mail_outline_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\app_bar_main2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex18_1.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex18_1.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_nonselecteditem_dot.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\nonselecteditem_dot.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex61.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex61.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex123.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex123.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex3.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex3.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex89.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex89.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex44.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex44.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_album.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\menu\\menu_album.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_event_seat_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_event_seat_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex38.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex38.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_frag_tao_plan_moi.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment_frag_tao_plan_moi.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_td_setting_selector.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\td_setting_selector.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_1.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag_1.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex51.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex51.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_show.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment_show.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex96.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex96.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex29.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex29.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex99.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex99.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex54.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex54.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_select_exercise_your_plan.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\frag_select_exercise_your_plan.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex43.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex43.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex120.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex120.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex39.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex39.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex108.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex108.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\anim_exit_to_left.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex132.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex132.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex50.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex50.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_addexercisedialog.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\addexercisedialog.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_coach_card.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\coach_card.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex105.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex105.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex4.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex4.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex28.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex28.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fragment__detail.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\fragment_fragment__detail.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex10.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex10.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_up_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_thumb_up_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_base_setting.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_base_setting.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex140.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex140.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex36.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex36.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex115.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex115.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex1.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex1.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex53.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex53.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_workout.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\activity_detail_workout.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex46.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex46.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex112.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex112.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex125.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex125.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex94.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex94.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex86.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex86.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex103.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex103.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex11.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex11.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_access_alarm_black_48dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_access_alarm_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex71.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex71.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex18.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex18.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex79.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex79.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_grdint.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\grdint.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex111.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex111.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex104.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex104.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex149.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex149.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex80.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex80.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex93.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex93.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex110.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex110.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_green.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex12.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex12.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex57.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex57.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_exercise_createyourplan_card.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\exercise_createyourplan_card.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex7.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex7.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_item_workout.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\item_workout.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex25.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex25.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex64.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex64.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\anim_exit_to_right.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\anim\\exit_to_right.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_flag_white_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_flag_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex117.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex117.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex92.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex92.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex116.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex116.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex24.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex24.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lightbulb_outline_black_24dp.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_lightbulb_outline_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_workout_plan_card.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\workout_plan_card.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex58.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex58.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex32.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex32.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_red.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\border_red.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_header_logo.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\header_logo.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_splash.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex31.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex31.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex124.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex124.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex17.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex17.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\layout_workout_card.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\layout\\workout_card.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex72.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex72.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex85.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex85.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex65.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex65.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex8.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex8.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex78.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex78.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex109.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex109.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex144.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex144.mp4"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\build\\intermediates\\merged_res\\debug\\raw_ex131.mp4.flat",
+        "source": "D:\\Soft_Tech\\Male_GYM_Fitness\\app\\src\\main\\res\\raw\\ex131.mp4"
+    }
+]

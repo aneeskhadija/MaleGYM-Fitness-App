@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#ffff4081</color>
+    <color name="colorBG">#ffbbeceb</color>
+    <color name="colorGreen">#ff3661d9</color>
+    <color name="colorPrimary">#643b87</color>
+    <color name="colorPrimaryDark">#753b80</color>
+    <color name="colorPrimaryano">#c13b5f</color>
+    <color name="colorPurple">#ffd760a7</color>
+    <color name="colorRed">#ffff0000</color>
+    <color name="colorYellow">#ff00ffff</color>
+    <color name="color_splash">#311B92</color>
+    <color name="header_color">#311B92</color>
+
+
+    <color name="album_title">#ff4c4c4c</color>
+
+    <color name="td_black">#dd000000</color>
+    <color name="td_blue">#ff5497ff</color>
+    <color name="td_blue61">#ff6183da</color>
+    <color name="td_colorAccent">#ffffeb3b</color>
+    <color name="td_colorPrimary">#ff00c853</color>
+    <color name="td_colorPrimaryDark">#ff00a043</color>
+    <color name="td_colorPrimaryDarkGreen">#ff4caf50</color>
+    <color name="td_colorTab">#99ffffff</color>
+    <color name="td_colorTabSelected">#ffffffff</color>
+    <color name="td_disable_color">#ffbdbdbd</color>
+    <color name="td_gray">#89000000</color>
+    <color name="td_gray9a">#ff9a9a9a</color>
+    <color name="td_gray_6d">#ff6d6d6d</color>
+    <color name="td_gray_d5">#ffd5d5d5</color>
+    <color name="td_gray_d6">#ffd6d6d6</color>
+    <color name="td_grayf4">#fff4f4f4</color>
+    <color name="td_green">#ff54b154</color>
+    <color name="td_green_tran">#7f00c853</color>
+    <color name="td_lightGray">#42000000</color>
+    <color name="td_lightGray2">#1e000000</color>
+    <color name="td_lineColor">#ffdbdbdb</color>
+    <color name="td_md_black_26">#26000000</color>
+    <color name="td_md_text_black">#de000000</color>
+    <color name="td_md_text_gray">#8a000000</color>
+    <color name="td_md_text_light_gray">#57000000</color>
+    <color name="td_orange">#ffff5500</color>
+    <color name="td_progress_gray">#ffb9b9b9</color>
+    <color name="td_progress_gray_tran">#b2ffffff</color>
+    <color name="td_rate_desc_color">#ff63a131</color>
+    <color name="td_red">#ffff5500</color>
+    <color name="td_white">#ffffffff</color>
+    <color name="td_whiteFa">#fffafafa</color>
+    <color name="title_black">#ffadadad</color>
+    <color name="title_white">#ff212121</color>
+    <color name="toolbar_btn_text_color">#ffffffff</color>
+    <color name="viewBg">#fff1f5f8</color>
+    <color name="white">#ffffffff</color>
+    <color name="whiteFa">#fffafafa</color>
+    <color name="white_pressed">#fff1f1f1</color>
+    <color name="white_transparent">#fff7f3f3</color>
+    <color name="gray">#89000000</color>
+    <color name="gray9a">#ff9a9a9a</color>
+    <color name="gray_6d">#ff6d6d6d</color>
+    <color name="gray_d5">#ffd5d5d5</color>
+    <color name="gray_d6">#ffd6d6d6</color>
+    <color name="grayf4">#fff4f4f4</color>
+    <color name="green">#ff54b154</color>
+    <color name="primary_text">#ff212121</color>
+    <color name="secondary_text">#ff757575</color>
+    <color name="blue">#ff5497ff</color>
+    <color name="black">#dd000000</color>
+
+</resources>
+
+
+

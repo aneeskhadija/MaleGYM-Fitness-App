@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:res-auto="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:layout_marginLeft="1dp"
+    android:layout_marginRight="1dp"
+    res-auto:cardCornerRadius="8dp"
+    res-auto:cardElevation="3dp">
+
+    <RelativeLayout
+        android:paddingLeft="3dp"
+        android:paddingTop="3dp"
+        android:paddingRight="2dp"
+        android:paddingBottom="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <FrameLayout
+            android:id="@+id/fl_code"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:textColor="@color/colorAccent"
+                android:id="@+id/tv_code"
+                android:layout_width="70dp"
+                android:layout_height="80dp" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/ln"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/fl_code"
+            android:layout_centerVertical="true">
+
+            <TextView
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#ff2c3e50"
+                android:ellipsize="end"
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="14dp"
+                android:textColor="#ff34495e"
+                android:ellipsize="end"
+                android:id="@+id/tv_lyric"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

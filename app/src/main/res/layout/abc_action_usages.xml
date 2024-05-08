@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:res-auto="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    res-auto:cardBackgroundColor="@android:color/white"
+    res-auto:cardCornerRadius="2dp"
+    res-auto:cardElevation="4dp"
+    res-auto:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/time_setting_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:textSize="@dimen/abc_text_size_title_material"
+                android:textColor="@color/td_black"
+                android:id="@+id/select_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="01:03" />
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/isSelected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/day_setting_layout"
+            android:background="@drawable/td_setting_selector"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_below="@+id/time_setting_layout">
+
+            <ImageView
+                android:id="@+id/btn_delete"
+                android:clickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/td_ic_action_discard"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/repeat_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/btn_delete"
+                android:layout_alignParentLeft="true">
+
+                <TextView
+                    android:textSize="@dimen/abc_text_size_subhead_material"
+                    android:textColor="@color/td_black"
+                    android:id="@+id/repeat_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Repeat" />
+
+                <TextView
+                    android:textSize="@dimen/abc_text_size_caption_material"
+                    android:textColor="@color/td_gray9a"
+                    android:id="@+id/select_day"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/repeat_title" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_recent_actors_black_24dp"
+            android:id="@+id/nav_exercise"
+            android:title="@string/title_1" />
+        <item
+            android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+            android:id="@+id/nav_workouts"
+            android:title="@string/title_2" />
+        <item
+            android:icon="@drawable/ic_recent_actors_black_24dp"
+            android:id="@+id/nav_step_count"
+            android:title="@string/title_9" />
+        <item
+            android:icon="@drawable/ic_recent_actors_black_24dp"
+            android:id="@+id/nav_diet_tips"
+            android:title="@string/title_10" />
+        <item
+            android:icon="@drawable/ic_event_seat_black_24dp"
+            android:id="@+id/nav_custom"
+            android:title="@string/title_3" />
+        <item
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:id="@+id/nav_setting"
+            android:title="@string/setting" />
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:icon="@drawable/ic_reply_all_black_24dp"
+                android:id="@+id/nav_share"
+                android:title="@string/abc_shareactionprovider_share_with" />
+            <item
+                android:icon="@drawable/ic_thumb_up_black_24dp"
+                android:id="@+id/nav_rate"
+                android:title="@string/rate_us" />
+            <item
+                android:icon="@drawable/ic_send_black_24dp"
+                android:id="@+id/nav_mail"
+                android:title="@string/send_f" />
+        </menu>
+    </item>
+</menu>

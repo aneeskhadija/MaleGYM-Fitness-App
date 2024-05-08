@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:res-auto="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    res-auto:cardBackgroundColor="@android:color/white"
+    res-auto:cardCornerRadius="2dp"
+    res-auto:cardElevation="4dp"
+    android:layout_margin="7dp"
+    res-auto:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:id="@+id/txtaddtobttn"
+            android:clickable="true"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="10dp"
+            android:scaleType="fitCenter" />
+
+        <ImageView
+            android:id="@+id/img_iconExercise"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            android:textColor="@color/album_title"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/tv_nameExercise"
+            android:paddingLeft="@dimen/album_title_padding"
+            android:paddingTop="@dimen/album_title_padding"
+            android:paddingRight="@dimen/album_title_padding"
+            android:paddingBottom="@dimen/album_title_padding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/txtaddtobttn"
+            android:layout_below="@+id/img_iconExercise"
+            android:layout_centerHorizontal="true" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

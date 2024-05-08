@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:res-auto="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    res-auto:cardBackgroundColor="@android:color/white"
+    res-auto:cardCornerRadius="2dp"
+    res-auto:cardElevation="4dp"
+    android:layout_margin="7dp"
+    res-auto:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:background="@drawable/border_radius_5_trans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/limg"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            res-auto:cardCornerRadius="36dp">
+
+            <ImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:scaleType="fitCenter" />
+
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_toRightOf="@+id/limg"
+            android:layout_centerVertical="true">
+
+            <TextView
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#ff2c3e50"
+                android:ellipsize="end"
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="13dp"
+                android:textStyle="italic"
+                android:textColor="#ff7f8c8d"
+                android:id="@+id/datecreate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+
+

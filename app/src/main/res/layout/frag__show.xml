@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:res-auto="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/grayf4"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        res-auto:cardBackgroundColor="@android:color/white"
+        res-auto:cardCornerRadius="2dp"
+        res-auto:cardElevation="4dp"
+        res-auto:cardUseCompatPadding="true">
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <me.relex.circleindicator.CircleIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        res-auto:ci_drawable="@drawable/selecteditem_dot"
+        res-auto:ci_drawable_unselected="@drawable/nonselecteditem_dot" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        res-auto:cardBackgroundColor="@android:color/white"
+        res-auto:cardCornerRadius="2dp"
+        res-auto:cardElevation="4dp"
+        res-auto:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name_exercise"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:textColor="@color/primary_text"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:background="@drawable/border_purpose"
+                android:padding="10dp" />
+
+            <TextView
+                android:id="@+id/des_exercise"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/secondary_text"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:scrollbars="vertical" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
